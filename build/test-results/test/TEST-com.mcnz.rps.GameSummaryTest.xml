@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mcnz.rps.GameSummaryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-26T22:50:58" hostname="THINKSTATION" time="0.001">
+  <properties/>
+  <testcase name="testGetClientGesture" classname="com.mcnz.rps.GameSummaryTest" time="0.001"/>
+  <testcase name="testGetServerGesture" classname="com.mcnz.rps.GameSummaryTest" time="0.0"/>
+  <testcase name="testGetDate" classname="com.mcnz.rps.GameSummaryTest" time="0.0"/>
+  <testcase name="testGetResult" classname="com.mcnz.rps.GameSummaryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

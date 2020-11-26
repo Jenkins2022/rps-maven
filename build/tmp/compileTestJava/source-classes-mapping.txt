@@ -1,0 +1,4 @@
+com/mcnz/FailMeMaybeTest.java
+ com.mcnz.FailMeMaybeTest
+com/mcnz/rps/GameSummaryTest.java
+ com.mcnz.rps.GameSummaryTest
