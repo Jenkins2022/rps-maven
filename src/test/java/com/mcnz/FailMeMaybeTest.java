@@ -9,7 +9,7 @@ public class FailMeMaybeTest {
 	@Test
 	public void testMyTrueAssertion() {
 		//change true to false to fail the build
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 	
 }
